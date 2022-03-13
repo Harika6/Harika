@@ -1,0 +1,7 @@
+package c;
+
+public class SavingsAccount {
+	private double interest;
+	private double maxWithdrawAmountLimit;
+	 
+}

@@ -1,0 +1,13 @@
+package c;
+
+public class CurrentAccount extends Account{
+	
+	private String  tradeLicenseNumber;
+	private double overdraft;
+	
+	public CurrentAccount(String name, String accountNumber, double accountBalance,
+			String  tradeLicenseNumber, double overdraft) {
+		super(name, accountNumber, accountBalance);
+	}
+	
+}

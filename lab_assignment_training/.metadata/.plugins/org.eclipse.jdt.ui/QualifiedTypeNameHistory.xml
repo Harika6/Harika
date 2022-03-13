@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="q3.ArrayOp"/>
+<fullyQualifiedTypeName name="a.Employee"/>
+<fullyQualifiedTypeName name="b.Book"/>
+<fullyQualifiedTypeName name="b.BookStore"/>
+<fullyQualifiedTypeName name="c.SavingsAccount"/>
+<fullyQualifiedTypeName name="c.Account"/>
+<fullyQualifiedTypeName name="c.CurrentAccount"/>
+<fullyQualifiedTypeName name="d.Employee"/>
+<fullyQualifiedTypeName name="d.CommissionEmployee"/>
+<fullyQualifiedTypeName name="e.Invoice"/>
+<fullyQualifiedTypeName name="e.PaymentProcessingSystem"/>
+<fullyQualifiedTypeName name="e.Payable"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="c.Address"/>
+<fullyQualifiedTypeName name="c.Employee"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="d.Book"/>
+<fullyQualifiedTypeName name="d.BookNotFoundException"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="e.InvalidCountryException"/>
+<fullyQualifiedTypeName name="e.UserRegistration"/>
+</qualifiedTypeNameHistroy>

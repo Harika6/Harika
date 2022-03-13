@@ -1,0 +1,8 @@
+package d;
+
+public class CommissionEmployee extends Employee{
+	private double commisionPercentage;
+	private double totalSales;
+	
+	
+}

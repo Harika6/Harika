@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;q5.DemoDate&apos; to &apos;AssignQ5&apos;&#x0A;- Original project: &apos;core-assignment-set1&apos;&#x0A;- Original element: &apos;q5.DemoDate&apos;&#x0A;- Renamed element: &apos;q5.AssignQ5&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DemoDate&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;q5{DemoDate.java[DemoDate" matchStrategy="1" name="AssignQ5" qualified="false" references="true" similarDeclarations="false" stamp="1646879004459" textual="false" version="1.0"/>
+</session>

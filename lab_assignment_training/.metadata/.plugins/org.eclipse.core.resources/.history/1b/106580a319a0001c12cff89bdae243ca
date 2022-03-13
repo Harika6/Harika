@@ -1,0 +1,10 @@
+package a;
+/*
+ * Implement following UML diagram, Write a program to test Employee class
+ */
+public class Assignment2Q1 {
+
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,17 @@
+package d;
+import java.util.*;
+public class BookApp {
+	private List<Book> books;
+
+	public BookApp() {
+		books=new ArrayList<Book>();
+		init();
+	}
+
+	//reading the data from the file and populating the arraylist
+	private void init() {
+		
+	}
+	
+	
+}

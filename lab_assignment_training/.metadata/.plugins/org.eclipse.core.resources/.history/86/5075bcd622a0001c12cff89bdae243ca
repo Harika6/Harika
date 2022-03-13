@@ -1,0 +1,6 @@
+package c;
+
+public class CurrentAccount {
+	private String  tradeLicenseNumber;
+	private double overdraft;
+}

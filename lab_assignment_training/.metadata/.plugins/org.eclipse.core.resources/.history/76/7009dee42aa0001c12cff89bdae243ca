@@ -1,0 +1,43 @@
+package a;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+
+/*
+ *     1) Download photo of your favourite player and save in some folder in a drive.
+ *      Now write program to copy each character from that file and store into another file using
+			FileReader / FileWriter
+			FileInputStream / FileOutputStream
+ */
+public class Assignment3Q1CorrectWay {
+
+	public static void main(String[] args) {
+		int i=0;
+		FileInputStream fr=null;
+		FileOutputStream fw=null;
+		try {
+			 fr=new FileInputStream("/home/raj/Desktop/photo/gandhiji.jpeg");
+			 fw= new FileOutputStream("/home/raj/Desktop/photo/gandhiji.jpeg");
+			
+			while((i=fr.read())!=-1) {
+				fw.write(i);
+			}
+			System.out.println("done");
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}catch(IOException e) {
+			e.printStackTrace();
+		}finally {
+			try {
+				fr.close();
+				fw.close();
+			} catch (IOException e) {
+			}
+			
+		}
+	}
+}

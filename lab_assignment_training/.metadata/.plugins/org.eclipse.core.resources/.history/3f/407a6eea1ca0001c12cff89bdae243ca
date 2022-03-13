@@ -1,0 +1,34 @@
+package b;
+
+public class BookStore {
+	private final int SIZE;
+	private String bookStoreName;
+	private Book[] books;
+	
+	public BookStore(String bookStoreName, int size) {
+		SIZE=size;
+		this.bookStoreName = bookStoreName;
+		this.books = new Book[SIZE];
+		init();
+	}
+	//populate some books
+	private void init() {
+		for(int i=0;i<SIZE; i++) {
+			
+		}
+	}
+
+
+
+	public void sell(String bookTitle, int noOfCopies) {
+
+	}
+
+	public void order(String bookTitle, int noOfCopies) {
+
+	}
+
+	public void display() {
+		
+	}
+}

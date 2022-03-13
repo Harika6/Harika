@@ -1,0 +1,8 @@
+package c;
+
+public class Address {
+	private String addressLocation;
+	private String city;
+	private String country;
+
+}

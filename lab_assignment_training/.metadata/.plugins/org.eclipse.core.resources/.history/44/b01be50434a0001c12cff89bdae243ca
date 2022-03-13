@@ -1,0 +1,9 @@
+package d;
+
+public class Book {
+	 private int id;
+	 private String sbn;
+	 private String title;
+	 private String author;
+	 private int price;
+}

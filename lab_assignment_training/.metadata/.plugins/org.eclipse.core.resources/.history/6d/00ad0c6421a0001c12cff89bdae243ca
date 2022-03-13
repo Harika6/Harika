@@ -1,0 +1,26 @@
+package c;
+
+abstract public class Account {
+	private String name;
+	private String accountNumber;
+	private double accountBalance;
+	
+	public Account(String name, String accountNumber, double accountBalance) {
+		this.name = name;
+		this.accountNumber = accountNumber;
+		this.accountBalance = accountBalance;
+	}
+	
+	public void deposit(double amount) {
+		accountBalance+=amount;
+	}
+
+	@Override
+	public String toString() {
+		return "Account [name=" + name + ","
+				+ " accountNumber=" + accountNumber + ", accountBalance=" + accountBalance
+				+ "]";
+	}
+	
+	
+}

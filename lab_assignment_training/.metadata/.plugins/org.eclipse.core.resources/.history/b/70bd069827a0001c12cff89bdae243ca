@@ -1,0 +1,10 @@
+package e;
+
+public class Invoice implements Payable{
+	private String partNum;
+	private String partDescription;
+	private int quantity;
+	private double pricePerPart;
+	
+	
+}

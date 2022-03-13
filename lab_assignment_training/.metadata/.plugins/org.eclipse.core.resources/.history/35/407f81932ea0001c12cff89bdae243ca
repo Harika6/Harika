@@ -1,0 +1,19 @@
+package c;
+
+/*
+ *     3) Write a program to serialize and deserialize an object of Employee class.
+ *      Employee class has the following members.
+		Employee
+			Int id;
+			String name; 
+			Address address;
+			double salary; (nonserializable)
+			void display()
+
+ */
+public class Assignment3Q3 {
+
+	public static void main(String[] args) {
+
+	}
+}

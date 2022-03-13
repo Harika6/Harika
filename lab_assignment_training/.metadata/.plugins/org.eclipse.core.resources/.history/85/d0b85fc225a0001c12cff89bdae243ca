@@ -1,0 +1,9 @@
+package d;
+
+public class HourlyEmployee extends Employee{
+	private double  hourlyRate;
+	private int numberOfHours;
+	
+	
+	
+}

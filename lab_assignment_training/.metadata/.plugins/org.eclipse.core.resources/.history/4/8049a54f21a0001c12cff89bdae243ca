@@ -1,0 +1,17 @@
+package c;
+
+public class SavingsAccount extends Account {
+
+	private double interest;
+	private double maxWithdrawAmountLimit;
+
+	public SavingsAccount(String name, String accountNumber, double accountBalance, double interest,
+			double maxWithdrawAmountLimit) {
+		super(name, accountNumber, accountBalance);
+		this.interest=interest;
+		this.maxWithdrawAmountLimit=maxWithdrawAmountLimit;
+	}
+	
+	
+
+}
